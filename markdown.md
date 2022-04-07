@@ -2,7 +2,7 @@ new test file
 
 *Italic*
 **Bold**	
-# Heading 1
+# This is edited in  VS code
 ## Heading 2
 [Link](http://a.com)
 ![Image](http://url/a.png)
