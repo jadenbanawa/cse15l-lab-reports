@@ -1,1 +1,1 @@
-	![sample screenshot](Screen Shot 2022-04-05 at 11.44.54 PM.png)
+	![sample screenshot](./Screen Shot 2022-04-05 at 11.44.54 PM.png)
