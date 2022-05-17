@@ -12,7 +12,7 @@ I was then able to add a file with scp using my alias
 
 
 ### Set up Github access from ieng6
-![Image](images/lab-remotekey.PNG)
+![Image](images/lab3-remotekey.PNG)
 <br>
 I created a public key in a remote account and stored it in github. The private key is stored in the ieng6 .ssh folder in id_rsa. 
 <br>
