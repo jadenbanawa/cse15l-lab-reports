@@ -1,7 +1,8 @@
 # Lab Report 4
 
 ## Links
-[My Repository](https://github.com/jadenbanawa/markdown-parser)
+[My Repository](https://github.com/jadenbanawa/markdown-parser)<br>
+<br>
 [Week 7 Implementation](https://github.com/UDXS/markdown-parser)
 
 ## Snippet 1 Tests
