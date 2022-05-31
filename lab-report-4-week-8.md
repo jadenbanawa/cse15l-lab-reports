@@ -8,7 +8,6 @@
 ## Snippet 1 Tests
 
 ### Expected output for snippet 1:
-<br>
 ![Image](images/4-1.png)
 <br>
 As seen in the image, using the getLinks method in MarkdownParse.java should return an array of only one link, which is "another link" linked to \`google.com.
